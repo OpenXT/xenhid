@@ -5,3 +5,9 @@
 
 # Output
 /xenhid
+/.build_number
+/include/version.h
+x64/
+Win32/
+vs2019/xenhid.inf
+vs2019/version/.revision
